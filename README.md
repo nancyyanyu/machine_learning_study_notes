@@ -3,8 +3,8 @@
 ## Contents
 
 - Notes on An Introduction to Statistical Learning  with Applications in R (ISLR)
- - Linear Regression
- - Classification
+ *  Linear Regression
+ * Classification
  - Resampling Methods
  - Model Selection and Regularization
  - Tree-Based Methods
