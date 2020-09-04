@@ -1,5 +1,5 @@
 # Machine Learning Study Notes
-
+This repo is my studying notes of ISLR, ESL, and other Machine Learning books. Check a more user friendly version on my personal website [here](https://nancyyanyu.github.io/categories/Machine-Learning/).
 
 ## Contents
 
@@ -61,3 +61,14 @@
     - Dimension Reduction Methods
     - Principal Components Regression
     
+## Reference:
+* James, Gareth, et al. An introduction to statistical learning. Vol. 112. New York: springer, 2013.
+
+* Hastie, Trevor, et al. "The elements of statistical learning: data mining, inference and prediction." The Mathematical Intelligencer 27.2 (2005): 83-85
+
+* Rice, John A. Mathematical statistics and data analysis. Cengage Learning, 2006.
+
+
+
+
+
