@@ -1,20 +1,9 @@
----
-title: 'Study Note: Linear Regression Part I - Linear Regression Models'
-date: '2019–06–06 00:00:12'
-categories: Machine Learning
-mathjax: true
-tags:
-  - Linear Regression
-  - Regression
-comments: true
-abbrlink: 44648a4f
----
 
 # Simple Linear Regression Models
 
 ## Linear Regression Model
 
-- Form of the linear regression model: *$y=\beta_{0}+\beta_{1}X+\epsilon$*.
+- Form of the linear regression model: $y=\beta_{0}+\beta_{1}X+\epsilon$.
 
 - Training data: ($x_1$,$y_1$) ... ($x_N$,$y_N$). Each $x_{i} =(x_{i1},x_{i2},...,x_{ip})^{T}$ is a vector of feature measurements for the $i$-th case. 
 
