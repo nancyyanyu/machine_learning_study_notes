@@ -223,15 +223,11 @@ We use these distributional properties to form tests of hypothesis and conﬁden
 
 The most common hypothesis test involves testing the **null test hypothesis** of
 
-```
-H_0: No relationship between X and Y or β1=0
-```
+> H_0: No relationship between X and Y or β1=0
 
 versus the **alternative hypothesis**
 
-```
-H_a : There is some relationship between X and Y or β1≠0
-```
+> H_a : There is some relationship between X and Y or β1≠0
 
 To test the null hypothesis, we need to determine whether $\hat{\beta_1}$, our estimate for $\beta_1$, is sufficiently far from zero that we can be confident that $\beta_1$ is non-zero $\Rightarrow$ it depends on $SE( \hat{\beta_1}$)
 
@@ -471,15 +467,11 @@ We use a hypothesis test to answer this question.
 
 We test the **null hypothesis**
 
-```
-H_0 : β1 = β2 = · · · = βp = 0
-```
+> H_0 : β1 = β2 = · · · = βp = 0
 
 versus the **alternative**
 
-```
-H_a : at least one βj is non-zero
-```
+> H_a : at least one βj is non-zero
 
 This hypothesis test is performed by computing the **F-statistic**,
 $$

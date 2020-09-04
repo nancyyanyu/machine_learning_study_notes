@@ -29,7 +29,7 @@ the linear model framework.
    - If n is not much larger than p, least squares fit has large variance $\Rightarrow$ overfitting $\Rightarrow$ consequently poor predictions on test data
    - If p > n, no more unique least squares coefficient estimate: the **variance is infinite** so the method cannot be used at all
 
-    By **constraining** or **shrinking** the estimated coefficients, we can often substantially reduce the variance at the cost of a negligible increase in bias.
+   By **constraining** or **shrinking** the estimated coefficients, we can often substantially reduce the variance at the cost of a negligible increase in bias.
 
 
 
