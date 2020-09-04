@@ -1,14 +1,3 @@
----
-title: 'Study Note: Linear Regression Part I - Linear Regression Models'
-date: '2019–06–06 00:00:12'
-categories: Machine Learning
-mathjax: true
-tags:
-  - Linear Regression
-  - Regression
-comments: true
-abbrlink: 44648a4f
----
 
 # Simple Linear Regression Models
 
