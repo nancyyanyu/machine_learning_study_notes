@@ -1,5 +1,5 @@
 # Machine Learning Study Notes
-This repo is my studying notes of ISLR, ESL, and other Machine Learning books. Check a more user friendly version on my personal website [here](https://nancyyanyu.github.io/categories/Machine-Learning/).
+This repo is my studying notes of [An Introduction to Statistical Learning: With Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370), [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_2?crid=6E2ICO74NXDY&dchild=1&keywords=elements+of+statistical+learning&qid=1599866913&s=books&sprefix=elements+of+sta%2Cstripbooks%2C191&sr=1-2), and other Machine Learning books. Check a more user friendly version on my personal website [here](https://nancyyanyu.github.io/categories/Machine-Learning/).
 
 ## Contents
 
